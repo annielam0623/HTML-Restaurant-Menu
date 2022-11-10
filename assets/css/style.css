@@ -5,12 +5,25 @@ body {
     background-color: beige;
     text-align: center;
 }
+nav {
+    width: 100%;
+}
 
-h1,
-h2 {
+
+h1
+ {
     color: darkred;
 }
 
+p {
+    font-size: 20px;  
+}
+h3
+{
+    text-align: left;
+}
+
+h2,
 h3, 
 p,
 li {
@@ -59,7 +72,7 @@ nav a:hover {
 }
 
 #banner img {
-    width: 60%;
+    width: 100%;
     height: auto;
 }
 
